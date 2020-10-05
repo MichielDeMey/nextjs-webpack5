@@ -1,0 +1,18 @@
+[
+  {
+    "key": "startup",
+    "title": "Startup",
+    "price": 75
+  },
+  {
+    "key": "basic",
+    "title": "Basic",
+    "price": 150,
+    "featured": true
+  },
+  {
+    "key": "partnership",
+    "title": "Partnership",
+    "price": null
+  }
+]
